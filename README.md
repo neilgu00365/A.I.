@@ -13,3 +13,9 @@
 ##その他　　
 [http://aidiary.hatenablog.com/entry/20091212/1260624075](3日で作る高速特定物体認識システム (7) 最近傍探索の高速化)  
 []()  
+
+##BOOK  
+[ゼロから作るDeep Learning――Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)  
+[]()  
+[]()  
+
