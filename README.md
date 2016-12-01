@@ -46,8 +46,12 @@
 [Scikit-learnでハイパーパラメータのグリッドサーチ](http://qiita.com/sotetsuk/items/16ffd76978085bfd7628)  
 [SCIKIT-LEARNで最適なパラメータを決めるためにGRID SEARCHを使う](http://blog.tatsushim.com/?p=63)  
 [Grid Search: パラメータチューニング](http://qh73xebitbucketorg.readthedocs.io/ja/latest/1.Programmings/python/LIB/scikit-learn/girdSearch/)  
+[scikit-learnでsvm 基本的な使い方](http://may46onez.hatenablog.com/entry/2016/02/19/152532)  
+[scikit-learn: パラメータの調整](http://cheminformist.itmol.com/TEST/wp-content/uploads/2015/05/CV_Grid.html)  
+[scikit-learn:SVM(RBFカーネル)のハイパーパラメータを変えると何が起こるの?](http://qiita.com/sz_dr/items/f3d6630137b184156a67)  
 []()  
-[]()  
+
+
 
 ##組み込みDeepLearning  
 [電子デバイス や ガジェットに、Deeep Learning を組み込む方法 をいろいろ調べてみた](http://qiita.com/HirofumiYashima/items/8f0772091de49831c482)  
