@@ -50,6 +50,18 @@
 [scikit-learn: パラメータの調整](http://cheminformist.itmol.com/TEST/wp-content/uploads/2015/05/CV_Grid.html)  
 [scikit-learn:SVM(RBFカーネル)のハイパーパラメータを変えると何が起こるの?](http://qiita.com/sz_dr/items/f3d6630137b184156a67)  
 []()  
+[]()  
+[]()  
+
+
+##Python可視化  
+[1.4. Matplotlib: 作図](http://www.turbare.net/transl/scipy-lecture-notes/intro/matplotlib/matplotlib.html)  
+[api example code: histogram_path_demo.py](http://matplotlib.org/examples/api/histogram_path_demo.html)  
+[pylab_examples example code: date_index_formatter.py](http://matplotlib.org/examples/pylab_examples/date_index_formatter.html)  
+[mplot3d example code: custom_shaded_3d_surface.py](http://matplotlib.org/examples/mplot3d/custom_shaded_3d_surface.html)  
+[mplot3d example code: hist3d_demo.py](http://matplotlib.org/examples/mplot3d/hist3d_demo.html)  
+[mplot3d example code: scatter3d_demo.py](http://matplotlib.org/examples/mplot3d/scatter3d_demo.html)  
+
 
 
 
