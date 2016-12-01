@@ -9,6 +9,7 @@
 ##DeepLearning  
 [人工知能に関する断創録](http://aidiary.hatenablog.com/)  
 [Deep Learning リンク集](http://aidiary.hatenablog.com/entry/20150429/1430271006)  
+[DeepLearning画像処理最新動向_岡谷.pdf](http://www.orsj.or.jp/archive2/or60-4/or60_4_198.pdf)  
 
 ##その他　　
 [http://aidiary.hatenablog.com/entry/20091212/1260624075](3日で作る高速特定物体認識システム (7) 最近傍探索の高速化)  
@@ -39,7 +40,14 @@
 []()  
 []()  
 
-
+##組み込みDeepLearning  
+[電子デバイス や ガジェットに、Deeep Learning を組み込む方法 をいろいろ調べてみた](http://qiita.com/HirofumiYashima/items/8f0772091de49831c482)  
+[Raspberry PiはDeep Learningの夢を見るか？「DeepDreamでグロ画像生成」 ](http://karaage.hatenadiary.jp/entry/2016/01/04/073000)  
+[ディープラーニング入門～DeepBeliefSDKを使う～ ](http://iti.hatenablog.jp/entry/2015/07/27/083803)  
+[CNN(Convolutional Neural Network) on Raspberry pi](http://qiita.com/nonbiri15/items/4b89606c4d938df9d678)  
+[ディープラーニングのフレームワークChainer使ってMac/Raspberry Piで画像認識 ](http://karaage.hatenadiary.jp/entry/2016/07/08/073000)  
+[Raspberry PiでDeep Learning「DeepBeliefSDKで画像認識」 ](http://karaage.hatenadiary.jp/entry/2015/12/16/073000)  
+[SmartPhone上でのDeepLearningによる画像認識](https://kaigi.org/jsai/webprogram/2016/pdf/634.pdf)  
 
 
 
