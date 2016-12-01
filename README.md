@@ -36,7 +36,7 @@
 [06.非線形SVMによる教師あり学習(06_SVM_kernel.py)](http://qiita.com/hf149/private/30d3de5d882cbfd28537)  
 [07.AdaBoostによる教師あり学習(07_AdaBoost.py)](http://qiita.com/hf149/private/626643c87012e7b696ca)  
 [08.RandomForestによる教師あり学習(08_RandomForest.py)](http://qiita.com/hf149/private/837947183327a09e5e45)  
-[]()  
+[09 & 10.MNISTを使った文字認識(09_train.py, 10_test.py)](http://qiita.com/hf149/private/e32e0ad78e92b9c64daf)  
 []()  
 []()  
 [Scikit learnより グリッドサーチによるパラメータ最適化](http://qiita.com/SE96UoC5AfUt7uY/items/c81f7cea72a44a7bfd3a)  
