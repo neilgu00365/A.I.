@@ -20,6 +20,15 @@
 []()  
 []()  
 
+##活性化関数　　
+[神经网络 ReLU，cross entropy and softmax](http://modkzs.github.io/2016/01/23/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-ReLU%EF%BC%8Ccross-entropy-and-softmax/)  
+[ReLu(Rectified Linear Units)激活函数](http://www.cnblogs.com/neopenx/p/4453161.html)  
+[]()  
+
+
+
+
+
 ##研修「Deep Learning」  
 [03.マハラノビス距離を用いたクラス識別(03_Mahalanobis.py)](http://qiita.com/hf149/private/1e513bc518dd7fc78210)  
 [04.k最近傍法による教師あり学習(04_kNN.py)](http://qiita.com/hf149/private/40459dd9728ebd04129b)  
