@@ -37,7 +37,7 @@
 [07.AdaBoostによる教師あり学習(07_AdaBoost.py)](http://qiita.com/hf149/private/626643c87012e7b696ca)  
 [08.RandomForestによる教師あり学習(08_RandomForest.py)](http://qiita.com/hf149/private/837947183327a09e5e45)  
 [09 & 10.MNISTを使った文字認識(09_train.py, 10_test.py)](http://qiita.com/hf149/private/e32e0ad78e92b9c64daf)  
-[]()  
+[11. Recurrent Neural Networkによる電力予測 (13_RNN.py)](http://qiita.com/hf149/private/2348af7fd561feb27b9b)  
 []()  
 [Scikit learnより グリッドサーチによるパラメータ最適化](http://qiita.com/SE96UoC5AfUt7uY/items/c81f7cea72a44a7bfd3a)  
 [Scikit learn 識別器のいろいろ](http://qiita.com/SE96UoC5AfUt7uY/items/3ca101f1cb5dee310c06)  
