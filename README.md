@@ -53,6 +53,28 @@
 []()  
 []()  
 
+##研修最終課題対応：　　
+[FCN(Fully Convolutional Network)の覚え書き](https://www.cs.gunma-u.ac.jp/~nagai/wiki/index.php?FCN(Fully%20Convolutional%20Network)%A4%CE%B3%D0%A4%A8%BD%F1%A4%AD)  
+[Fully Convolutional Networks for Semantic Segmentationのcaffe実装を試す](http://akiomik.hatenablog.jp/entry/2016/01/10/230118)  
+[Fully Convolutional Networks](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)  
+[Amazon Picking Challenge Team C^2M](http://mprg.jp/research/amazon_picking_challenge_j)  
+[Probabilistic Multi-Class Segmentation for the Amazon Picking Challenge](http://www.robotics.tu-berlin.de/fileadmin/fg170/Publikationen_pdf/Jonschkowski-16-IROS.pdf)  
+[andyzeng/apc-vision-toolbox](https://github.com/andyzeng/apc-vision-toolbox)  
+[Repositories related to the Amazon Picking Challenge](https://github.com/amazon-picking-challenge)  
+[Delft-APC/py-faster-rcnn](https://github.com/Delft-APC/py-faster-rcnn)  
+[ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)  
+[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497v3.pdf)  
+[rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)  
+[]()  
+
+
+
+
+
+
+
+
+
 
 ##Python可視化  
 [1.4. Matplotlib: 作図](http://www.turbare.net/transl/scipy-lecture-notes/intro/matplotlib/matplotlib.html)  
