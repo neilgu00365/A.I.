@@ -26,6 +26,20 @@
 []()  
 
 
+##From ZHIHU.COM  
+[CS231n课程笔记翻译：卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)  
+[智能单元-聚焦通用人工智能](https://zhuanlan.zhihu.com/intelligentunit)  
+[DQN实战篇1 从零开始安装Ubuntu, Cuda, Cudnn, Tensorflow, OpenAI Gym](https://zhuanlan.zhihu.com/p/21434933?refer=intelligentunit)  
+[DQN 从入门到放弃1 DQN与增强学习](https://zhuanlan.zhihu.com/p/21262246?refer=intelligentunit)  
+[150行代码实现DQN算法玩CartPole](https://zhuanlan.zhihu.com/p/21477488?refer=intelligentunit)  
+[CS 294：深度增强学习，2017年春季学期](https://zhuanlan.zhihu.com/p/24721292?refer=intelligentunit)  
+[关于图像语义分割的总结和感悟](https://zhuanlan.zhihu.com/p/22308032?refer=intelligentunit)  
+[]()  
+
+
+
+
+
 
 
 
