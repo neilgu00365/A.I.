@@ -1,15 +1,33 @@
 # A.I.
 
+##環境構築  
+[Deeplearning Chainer のインストール(CPU only, Ubuntu)](http://dronevisionml.blogspot.jp/2016/03/deeplearning-chainer-cpu-only-ubuntu.html)  
+[Rasberry Pi 2 にUbuntu 14.04をインストールする(From Windows 10)](http://dronevisionml.blogspot.jp/search/label/Raspberry%20Pi)  
+
+
+
 ##強化学習
 [強化学習の概要，応用上の利点，適用例，基礎理論，代表的手法](http://sysplan.nams.kyushu-u.ac.jp/gen/edu/RL_intro.html#Foundations)  
 [分散深層強化学習でロボット制御.Peffect Network](https://research.preferred.jp/2015/06/distributed-deep-reinforcement-learning/)  
 [Probabilistic Robotics.pdf](http://people.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)  
-[移動体センサから得られる幾何・画像データの時空間解析とその応用.phd_thesis](http://www.cvl.iis.u-tokyo.ac.jp/thesis/doctor/main_ono.pdf) 
+[移動体センサから得られる幾何・画像データの時空間解析とその応用.phd_thesis](http://www.cvl.iis.u-tokyo.ac.jp/thesis/doctor/main_ono.pdf)  
+--  
+[DQNの生い立ち＋Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)  
+[]()  
+
 
 ##DeepLearning  
 [人工知能に関する断創録](http://aidiary.hatenablog.com/)  
 [Deep Learning リンク集](http://aidiary.hatenablog.com/entry/20150429/1430271006)  
 [DeepLearning画像処理最新動向_岡谷.pdf](http://www.orsj.or.jp/archive2/or60-4/or60_4_198.pdf)  
+
+[]()  
+[誤差逆伝播法のノート](http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)  
+[TensorflowとChainerのインストールの覚え書き](http://umejan.hatenablog.com/entry/2016/04/15/003729)  
+[Chainer+CUDA7.5インストール記念 学習速度比較](http://qiita.com/wakaba130/items/29ad1e72674d93fae3ba)  
+
+
+
 
 ##その他　　
 [http://aidiary.hatenablog.com/entry/20091212/1260624075](3日で作る高速特定物体認識システム (7) 最近傍探索の高速化)  
@@ -80,6 +98,14 @@
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497v3.pdf)  
 [rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)  
 []()  
+[DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](http://liangchiehchen.com/projects/DeepLab.html)  
+[TheLegendAli/DeepLab-Context_DeepLab-Python](https://github.com/TheLegendAli/DeepLab-Context)  
+[deeplab-public_SourceCode](https://bitbucket.org/deeplab/deeplab-public/src)  
+[]()  
+
+
+
+
 
 ##Survey: RCNN->SPPNET->Fast-RCNN->Faster-RCNN/YOLO  
 [R-CNN->Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5.pdf)  
