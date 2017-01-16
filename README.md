@@ -52,7 +52,7 @@
 [08.RandomForestによる教師あり学習(08_RandomForest.py)](http://qiita.com/hf149/private/837947183327a09e5e45)  
 [09 & 10.MNISTを使った文字認識(09_train.py, 10_test.py)](http://qiita.com/hf149/private/e32e0ad78e92b9c64daf)  
 [11. Recurrent Neural Networkによる電力予測 (13_RNN.py)](http://qiita.com/hf149/private/2348af7fd561feb27b9b)  
-[]()  
+
 [Scikit learnより グリッドサーチによるパラメータ最適化](http://qiita.com/SE96UoC5AfUt7uY/items/c81f7cea72a44a7bfd3a)  
 [Scikit learn 識別器のいろいろ](http://qiita.com/SE96UoC5AfUt7uY/items/3ca101f1cb5dee310c06)  
 [scikit learnより 交差検定で学習モデルの精度を評価](http://qiita.com/SE96UoC5AfUt7uY/items/d4b796f7658b7e5be3b6)  
@@ -88,6 +88,11 @@
 [Faster-RCNN->Towards real-time object detection with region proposal networks](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  
 [YOLO->You Only Look Once:Unified,Real-Time Object Detection](http://pjreddie.com/darknet/yolo/)  
 
+[論文紹介: Fast R-CNN&Faster R-CNN](http://www.slideshare.net/takashiabe338/fast-rcnnfaster-rcnn)  
+[Faster R-CNNの紹介](http://kivantium.hateblo.jp/entry/2015/12/25/112145)  
+[Faster R-CNNのCaffe・Python実装で物体検出デモを試してみた](https://soralab.space-ichikawa.com/2016/09/py-faster-rcnn-demo/)  
+[Faster R-CNNのChainer実装で物体検出を試してみた](https://soralab.space-ichikawa.com/2016/08/chainer-faster-rcnn/)  
+[どこに何が写ってるのか分かる人工知能 FasterRCNN勉強メモ ](http://d.hatena.ne.jp/shi3z/20160926/1474845938)  
 
 
 
