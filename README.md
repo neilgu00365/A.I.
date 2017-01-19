@@ -45,15 +45,14 @@
 []()  
 
 
-##From Zhihu  
-
-[CS231n课程笔记翻译：卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)  
-[智能单元-聚焦通用人工智能](https://zhuanlan.zhihu.com/intelligentunit)  
-[DQN实战篇1 从零开始安装Ubuntu, Cuda, Cudnn, Tensorflow, OpenAI Gym](https://zhuanlan.zhihu.com/p/21434933?refer=intelligentunit)  
-[DQN 从入门到放弃1 DQN与增强学习](https://zhuanlan.zhihu.com/p/21262246?refer=intelligentunit)  
-[150行代码实现DQN算法玩CartPole](https://zhuanlan.zhihu.com/p/21477488?refer=intelligentunit)  
-[CS 294：深度增强学习，2017年春季学期](https://zhuanlan.zhihu.com/p/24721292?refer=intelligentunit)  
-[关于图像语义分割的总结和感悟](https://zhuanlan.zhihu.com/p/22308032?refer=intelligentunit)  
+##From Zhihu    
+[CS231n课程笔记翻译：卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)    
+[智能单元-聚焦通用人工智能](https://zhuanlan.zhihu.com/intelligentunit)     
+[DQN实战篇1 从零开始安装Ubuntu, Cuda, Cudnn, Tensorflow, OpenAI Gym](https://zhuanlan.zhihu.com/p/21434933?refer=intelligentunit)    
+[DQN 从入门到放弃1 DQN与增强学习](https://zhuanlan.zhihu.com/p/21262246?refer=intelligentunit)    
+[150行代码实现DQN算法玩CartPole](https://zhuanlan.zhihu.com/p/21477488?refer=intelligentunit)    
+[CS 294：深度增强学习，2017年春季学期](https://zhuanlan.zhihu.com/p/24721292?refer=intelligentunit)    
+[关于图像语义分割的总结和感悟](https://zhuanlan.zhihu.com/p/22308032?refer=intelligentunit)    
 []()  
 
 
@@ -113,14 +112,13 @@
 [R-CNN->Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5.pdf)  
 [SPPNET->Spatial pyramid pooling in deep convolutional networks for visual recognition](https://arxiv.org/pdf/1406.4729.pdf)  
 [Fast-RCNN->Fast R-CNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)  
-[Faster-RCNN->Towards real-time object detection with region proposal networks](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  
-[YOLO->You Only Look Once:Unified,Real-Time Object Detection](http://pjreddie.com/darknet/yolo/)  
-
-[論文紹介: Fast R-CNN&Faster R-CNN](http://www.slideshare.net/takashiabe338/fast-rcnnfaster-rcnn)  
-[Faster R-CNNの紹介](http://kivantium.hateblo.jp/entry/2015/12/25/112145)  
-[Faster R-CNNのCaffe・Python実装で物体検出デモを試してみた](https://soralab.space-ichikawa.com/2016/09/py-faster-rcnn-demo/)  
-[Faster R-CNNのChainer実装で物体検出を試してみた](https://soralab.space-ichikawa.com/2016/08/chainer-faster-rcnn/)  
-[どこに何が写ってるのか分かる人工知能 FasterRCNN勉強メモ ](http://d.hatena.ne.jp/shi3z/20160926/1474845938)  
+[Faster-RCNN->Towards real-time object detection with region proposal networks](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)    
+[YOLO->You Only Look Once:Unified,Real-Time Object Detection](http://pjreddie.com/darknet/yolo/)    
+[論文紹介: Fast R-CNN&Faster R-CNN](http://www.slideshare.net/takashiabe338/fast-rcnnfaster-rcnn)    
+[Faster R-CNNの紹介](http://kivantium.hateblo.jp/entry/2015/12/25/112145)    
+[Faster R-CNNのCaffe・Python実装で物体検出デモを試してみた](https://soralab.space-ichikawa.com/2016/09/py-faster-rcnn-demo/)    
+[Faster R-CNNのChainer実装で物体検出を試してみた](https://soralab.space-ichikawa.com/2016/08/chainer-faster-rcnn/)    
+[どこに何が写ってるのか分かる人工知能 FasterRCNN勉強メモ ](http://d.hatena.ne.jp/shi3z/20160926/1474845938)    
 
 
 
