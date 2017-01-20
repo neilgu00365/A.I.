@@ -160,6 +160,13 @@
 [Raspberry PiでDeep Learning「DeepBeliefSDKで画像認識」 ](http://karaage.hatenadiary.jp/entry/2015/12/16/073000)  
 [SmartPhone上でのDeepLearningによる画像認識](https://kaigi.org/jsai/webprogram/2016/pdf/634.pdf)  
 
+[素人がCaffeを使ってDeepLearningしてみた(概要編)](http://qiita.com/yuishihara/items/abb59555dca9b34a59f0)  
+[ディープラーニングにおける演算ビット幅低減の研究](http://www.arch.info.mie-u.ac.jp/project/GradThesis//db/100044.pdf)  
+[Convolution in Caffe: a memo＿擬似コード](https://github.com/Yangqing/caffe/wiki/Convolution-in-Caffe:-a-memo)  
+[なぜcuDNNのConvolutionは高速なのか！！](https://tkng.org/b/2016/03/06/convolution/)  
+[]()  
+
+
 
 
 
