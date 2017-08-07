@@ -1,20 +1,24 @@
 # A.I.
 
+##学习无人驾驶车，你所必须知道的。  
+[学习无人驾驶车，你所必须知道的。](https://zhuanlan.zhihu.com/p/27686577)  
+[Awesome Autonomous Vehicles](https://github.com/neilgu00365/awesome-autonomous-vehicles)  
+
 ##DeepLearning + PointCloudProcessing  
 
-激光雷达与点云
-
+##激光雷达与点云  
 [[2017] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.](https://arxiv.org/abs/1612.00593) / [github](https://github.com/charlesq34/pointnet)  
-[2017] [1611.08069] 3D Fully Convolutional Network for Vehicle Detection in Point Cloud  
-[2017] [1703.03613] Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks  
-[2016] Motion-based Detection and Tracking in 3D LiDAR Scans [ref][youtube]  
-[2016] Lidar-based Methods for Tracking and Identification [ref][youtube]  
-[2015] Efficient L-shape fitting of laser scanner data for vehicle pose estimation [ref]  
-[2014] Road Detection Using High Resolution LIDAR  
-[2012] LIDAR-based 3D Object Perception [ref]  
-[2011] Radar/Lidar sensor fusion for car-following on highways [ref]  
-[2009] Real-time road detection in 3d point clouds using four directions scan line gradient criterion  
-[2006] Real-time Pedestrian Detection Using LIDAR and Convolutional Neural Networks [ref]  
+[[2017] [1611.08069] 3D Fully Convolutional Network for Vehicle Detection in Point Cloud.](https://arxiv.org/abs/1611.08069)    
+[[2017] [1703.03613] Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks.](https://arxiv.org/abs/1703.03613)    
+[[2016] Motion-based Detection and Tracking in 3D LiDAR Scans.](http://ais.informatik.uni-freiburg.de/publications/papers/dewan16icra.pdf) / [youtube](https://www.youtube.com/watch?v=cyufiAyTLE0&feature=youtu.be)    
+[[2016] Lidar-based Methods for Tracking and Identification.](http://publications.lib.chalmers.se/records/fulltext/241972/241972.pdf) / [youtube](https://www.youtube.com/watch?v=_Mhgm2BXdFI&feature=youtu.be)    
+[[2015] Efficient L-shape fitting of laser scanner data for vehicle pose estimation.](http://ieeexplore.ieee.org/abstract/document/7274568/)    
+[[2014] Road Detection Using High Resolution LIDAR.](http://ieeexplore.ieee.org/abstract/document/7007125/)    
+[[2012] LIDAR-based 3D Object Perception.](https://pdfs.semanticscholar.org/2c45/03c72ba7f53f3385859bd5e6311c58e73905.pdf)    
+[[2011] Radar/Lidar sensor fusion for car-following on highways.](http://ieeexplore.ieee.org/abstract/document/6144918/)    
+[[2009] Real-time road detection in 3d point clouds using four directions scan line gradient criterion.](http://velodynelidar.com/lidar/hdlpressroom/pdf/Articles/Real-time%20Road%20Detection%20in%203D%20Point%20Clouds%20using%20Four%20Directions%20Scan%20Line%20Gradient%20Criterion.pdf)    
+[[2006] Real-time Pedestrian Detection Using LIDAR and Convolutional Neural Networks.](http://ieeexplore.ieee.org/abstract/document/1689630/)    
+
 
 
 
