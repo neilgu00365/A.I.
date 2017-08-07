@@ -1,5 +1,30 @@
 # A.I.
 
+##DeepLearning + PointCloudProcessing  
+
+激光雷达与点云
+
+[2017] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [ref][github]  
+[2017] [1611.08069] 3D Fully Convolutional Network for Vehicle Detection in Point Cloud  
+[2017] [1703.03613] Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks  
+[2016] Motion-based Detection and Tracking in 3D LiDAR Scans [ref][youtube]  
+[2016] Lidar-based Methods for Tracking and Identification [ref][youtube]  
+[2015] Efficient L-shape fitting of laser scanner data for vehicle pose estimation [ref]  
+[2014] Road Detection Using High Resolution LIDAR  
+[2012] LIDAR-based 3D Object Perception [ref]  
+[2011] Radar/Lidar sensor fusion for car-following on highways [ref]  
+[2009] Real-time road detection in 3d point clouds using four directions scan line gradient criterion  
+[2006] Real-time Pedestrian Detection Using LIDAR and Convolutional Neural Networks [ref]  
+
+
+
+
+
+
+
+
+OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
 ##環境構築  
 [Deeplearning Chainer のインストール(CPU only, Ubuntu)](http://dronevisionml.blogspot.jp/2016/03/deeplearning-chainer-cpu-only-ubuntu.html)  
 [Rasberry Pi 2 にUbuntu 14.04をインストールする(From Windows 10)](http://dronevisionml.blogspot.jp/search/label/Raspberry%20Pi)  
