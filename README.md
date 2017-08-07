@@ -4,7 +4,7 @@
 
 激光雷达与点云
 
-[2017] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [ref][github]  
+[2017] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. [ref](https://arxiv.org/abs/1612.00593)[github](https://github.com/charlesq34/pointnet)  
 [2017] [1611.08069] 3D Fully Convolutional Network for Vehicle Detection in Point Cloud  
 [2017] [1703.03613] Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks  
 [2016] Motion-based Detection and Tracking in 3D LiDAR Scans [ref][youtube]  
@@ -23,7 +23,7 @@
 
 
 
-OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 ##環境構築  
 [Deeplearning Chainer のインストール(CPU only, Ubuntu)](http://dronevisionml.blogspot.jp/2016/03/deeplearning-chainer-cpu-only-ubuntu.html)  
