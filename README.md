@@ -1,16 +1,16 @@
 # A.I.
 
-##学习无人驾驶车，你所必须知道的。  
+## 学习无人驾驶车，你所必须知道的。  
 [学习无人驾驶车，你所必须知道的。](https://zhuanlan.zhihu.com/p/27686577)  
 [Awesome Autonomous Vehicles](https://github.com/neilgu00365/awesome-autonomous-vehicles)  
 
-##Survey List
+## Survey List
 [http://www.dongzhuoyao.com/records/](http://www.dongzhuoyao.com/records/)  
 [LEARNING BY HACKING](https://data-sci.info/)  
 [爱可可老师24小时热门分享](http://tinyletter.com/fly51fly/letters/24-2017-08-20)  
 
 
-##激光雷达与点云  
+## 激光雷达与点云  
 [[2017] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.](https://arxiv.org/abs/1612.00593) / [github](https://github.com/charlesq34/pointnet)  
 [[2017] [1611.08069] 3D Fully Convolutional Network for Vehicle Detection in Point Cloud.](https://arxiv.org/abs/1611.08069)    
 [[2017] [1703.03613] Fast LIDAR-based Road Detection Using Fully Convolutional Neural Networks.](https://arxiv.org/abs/1703.03613)    
@@ -24,10 +24,9 @@
 [[2006] Real-time Pedestrian Detection Using LIDAR and Convolutional Neural Networks.](http://ieeexplore.ieee.org/abstract/document/1689630/)    
 
 
+### Ready to Read  
 
-###Ready to Read  
-
-##DeepLearning + PointCloudProcessing  
+## DeepLearning + PointCloudProcessing  
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)  
 [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/pdf/1706.02413.pdf)  
 [PointNet: Poster](http://forum.stanford.edu/events/posterslides/PointNetDeepLearningonPointSetsfor3DClassificationandSegmentation.pdf)  
@@ -46,24 +45,24 @@
 []()  
 
 
-#Focal Loss For Dense Object Detection  
+# Focal Loss For Dense Object Detection  
 [來自FACEBOOK RESEARCH物體偵測的最新進展：FOCAL LOSS FOR DENSE OBJECT DETECTION](https://data-sci.info/2017/08/10/%E4%BE%86%E8%87%AAfacebook-research%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC%E7%9A%84%E6%9C%80%E6%96%B0%E9%80%B2%E5%B1%95%EF%BC%9Afocal-loss-dense-object-detection-2/)  
 [如何评价kaiming的Focal Loss for Dense Object Detection？](https://www.zhihu.com/question/63581984)  
 
-#SfMLearner  
+# SfMLearner  
 [完全無監督從影片中學習自身姿態與場景結構的關聯 UNSUPERVISED LEARNING OF DEPTH AND EGO-MOTION FROM VIDEO](https://data-sci.info/2017/08/02/%E5%AE%8C%E5%85%A8%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%BE%9E%E5%BD%B1%E7%89%87%E4%B8%AD%E5%AD%B8%E7%BF%92%E8%87%AA%E8%BA%AB%E5%A7%BF%E6%85%8B%E8%88%87%E5%A0%B4%E6%99%AF%E7%B5%90%E6%A7%8B%E7%9A%84%E9%97%9C/)  
 [SfMLearner:Github](https://github.com/tinghuiz/SfMLearner)  
 [Unsupervised Learning of Depth and Ego-Motion from Video](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)  
 []()  
 
-#CVPR2017  
+# CVPR2017  
 [CVPR 2017 有什么值得关注的亮点?](https://www.zhihu.com/question/57523080)  
 [CVPR2017 Main Conference](http://cvpr2017.thecvf.com/program/main_conference)  
 [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)  
 [yolo-9000:Github](https://github.com/philipperemy/yolo-9000)  
 
 
-#ReadList  
+# ReadList  
 [三维形状数据的深度特征表示](https://mp.weixin.qq.com/s/g9ANliOMLJalJtpt4YCZVw)  
 [三维形状数据的深度特征表示](https://zhuanlan.zhihu.com/p/26806047)  
 [饮水思源--浅析深度学习框架设计中的关键技术](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650327133&idx=1&sn=eafea46fc7a7e898beaf2a73bb0d74b4)  
@@ -78,13 +77,13 @@
 
 OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-##環境構築  
+## 環境構築  
 [Deeplearning Chainer のインストール(CPU only, Ubuntu)](http://dronevisionml.blogspot.jp/2016/03/deeplearning-chainer-cpu-only-ubuntu.html)  
 [Rasberry Pi 2 にUbuntu 14.04をインストールする(From Windows 10)](http://dronevisionml.blogspot.jp/search/label/Raspberry%20Pi)  
 
 
 
-##強化学習
+## 強化学習
 [強化学習の概要，応用上の利点，適用例，基礎理論，代表的手法](http://sysplan.nams.kyushu-u.ac.jp/gen/edu/RL_intro.html#Foundations)  
 [分散深層強化学習でロボット制御.Peffect Network](https://research.preferred.jp/2015/06/distributed-deep-reinforcement-learning/)  
 [Probabilistic Robotics.pdf](http://people.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)  
@@ -96,7 +95,7 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 []()  
 
 
-##DeepLearning  
+## DeepLearning  
 [人工知能に関する断創録](http://aidiary.hatenablog.com/)  
 [Deep Learning リンク集](http://aidiary.hatenablog.com/entry/20150429/1430271006)  
 [DeepLearning画像処理最新動向_岡谷.pdf](http://www.orsj.or.jp/archive2/or60-4/or60_4_198.pdf)  
@@ -109,24 +108,24 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 
 
 
-##その他　　
+## その他　　
 [3日で作る高速特定物体認識システム (7) 最近傍探索の高速化](http://aidiary.hatenablog.com/entry/20091212/1260624075)  
 [2016年Chainerアドベントカレンダーのまとめ](https://research.preferred.jp/)    
 
 
 
-##BOOK  
+## BOOK  
 [ゼロから作るDeep Learning――Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)  
 []()  
 []()  
 
-##活性化関数　　
+## 活性化関数　　
 [神经网络 ReLU，cross entropy and softmax](http://modkzs.github.io/2016/01/23/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-ReLU%EF%BC%8Ccross-entropy-and-softmax/)  
 [ReLu(Rectified Linear Units)激活函数](http://www.cnblogs.com/neopenx/p/4453161.html)  
 []()  
 
 
-##From Zhihu    
+## From Zhihu    
 [CS231n课程笔记翻译：卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)    
 [智能单元-聚焦通用人工智能](https://zhuanlan.zhihu.com/intelligentunit)     
 [DQN实战篇1 从零开始安装Ubuntu, Cuda, Cudnn, Tensorflow, OpenAI Gym](https://zhuanlan.zhihu.com/p/21434933?refer=intelligentunit)    
@@ -137,13 +136,7 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 []()  
 
 
-
-
-
-
-
-
-##研修「Deep Learning」  
+## 研修「Deep Learning」  
 [03.マハラノビス距離を用いたクラス識別(03_Mahalanobis.py)](http://qiita.com/hf149/private/1e513bc518dd7fc78210)  
 [04.k最近傍法による教師あり学習(04_kNN.py)](http://qiita.com/hf149/private/40459dd9728ebd04129b)  
 [05.線形SVMによる教師あり学習(05_SVM_linear.py)](http://qiita.com/hf149/private/c95e107e81669c3f3156#fnref1)  
@@ -167,7 +160,7 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 []()  
 []()  
 
-##研修最終課題対応：　　
+## 研修最終課題対応：　　
 [FCN(Fully Convolutional Network)の覚え書き](https://www.cs.gunma-u.ac.jp/~nagai/wiki/index.php?FCN(Fully%20Convolutional%20Network)%A4%CE%B3%D0%A4%A8%BD%F1%A4%AD)  
 [Fully Convolutional Networks for Semantic Segmentationのcaffe実装を試す](http://akiomik.hatenablog.jp/entry/2016/01/10/230118)  
 [Fully Convolutional Networks 〜 Chainerによる実装 〜](https://seiya-kumada.blogspot.jp/2016/03/fully-convolutional-networks-chainer.html)      
@@ -186,15 +179,10 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 [deeplab-public_SourceCode](https://bitbucket.org/deeplab/deeplab-public/src)  
 []()  
 
-
-
 [danielsuo/rgbd-annotator](https://github.com/danielsuo/rgbd-annotator)    
 
 
-
-
-
-##Survey: RCNN->SPPNET->Fast-RCNN->Faster-RCNN/YOLO  
+## Survey: RCNN->SPPNET->Fast-RCNN->Faster-RCNN/YOLO  
 [R-CNN->Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5.pdf)    
 [SPPNET->Spatial pyramid pooling in deep convolutional networks for visual recognition](https://arxiv.org/pdf/1406.4729.pdf)    
 [Fast-RCNN->Fast R-CNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)    
@@ -212,13 +200,7 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 []()  
 
 
-
-
-
-
-
-
-##Python可視化  
+## Python可視化  
 [1.4. Matplotlib: 作図](http://www.turbare.net/transl/scipy-lecture-notes/intro/matplotlib/matplotlib.html)  
 [api example code: histogram_path_demo.py](http://matplotlib.org/examples/api/histogram_path_demo.html)  
 [pylab_examples example code: date_index_formatter.py](http://matplotlib.org/examples/pylab_examples/date_index_formatter.html)  
@@ -227,9 +209,7 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 [mplot3d example code: scatter3d_demo.py](http://matplotlib.org/examples/mplot3d/scatter3d_demo.html)  
 
 
-
-
-##組み込みDeepLearning  
+## 組み込みDeepLearning  
 [電子デバイス や ガジェットに、Deeep Learning を組み込む方法 をいろいろ調べてみた](http://qiita.com/HirofumiYashima/items/8f0772091de49831c482)  
 [Raspberry PiはDeep Learningの夢を見るか？「DeepDreamでグロ画像生成」 ](http://karaage.hatenadiary.jp/entry/2016/01/04/073000)  
 [ディープラーニング入門～DeepBeliefSDKを使う～ ](http://iti.hatenablog.jp/entry/2015/07/27/083803)  
