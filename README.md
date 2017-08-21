@@ -1,7 +1,7 @@
 # A.I.
 
 ## 学习无人驾驶车，你所必须知道的。  
-[学习无人驾驶车，你所必须知道的。](https://zhuanlan.zhihu.com/p/27686577)  
+[学习无人驾驶车，你所必须知道的](https://zhuanlan.zhihu.com/p/27686577)  
 [Awesome Autonomous Vehicles](https://github.com/neilgu00365/awesome-autonomous-vehicles)  
 
 ## Survey List
@@ -30,10 +30,10 @@
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)  
 [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/pdf/1706.02413.pdf)  
 [PointNet: Poster](http://forum.stanford.edu/events/posterslides/PointNetDeepLearningonPointSetsfor3DClassificationandSegmentation.pdf)  
-[PointNet:GIthub](https://github.com/charlesq34/pointnet)  
+[PointNet: GIthub](https://github.com/charlesq34/pointnet)  
 
 [#在3D POINT CLOUD DATA上有效地使用深度學習取特徵](https://data-sci.info/2017/06/25/%E5%9C%A83d-point-cloud-data%E4%B8%8A%E6%9C%89%E6%95%88%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%8F%96%E7%89%B9%E5%BE%B5-pointnet-deep-learning-point-sets-3d-classific/)  
-[PointNet:Github](https://github.com/charlesq34/pointnet)  
+[PointNet: Github](https://github.com/charlesq34/pointnet)  
 [3D Deep Learning on Geometric Forms](http://3ddl.cs.princeton.edu/2016/slides/su.pdf)  
 
 [Deep Learning for Robust Normal Estimation in Unstructured Point Clouds](http://imagine.enpc.fr/~marletr/publi/SGP-2016-Boulch-Marlet_slides.pdf)  
@@ -45,12 +45,12 @@
 
 
 ## Focal Loss For Dense Object Detection  
-[來自FACEBOOK RESEARCH物體偵測的最新進展：FOCAL LOSS FOR DENSE OBJECT DETECTION](https://data-sci.info/2017/08/10/%E4%BE%86%E8%87%AAfacebook-research%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC%E7%9A%84%E6%9C%80%E6%96%B0%E9%80%B2%E5%B1%95%EF%BC%9Afocal-loss-dense-object-detection-2/)  
+[來自FACEBOOK RESEARCH物體偵測的最新進展： FOCAL LOSS FOR DENSE OBJECT DETECTION](https://data-sci.info/2017/08/10/%E4%BE%86%E8%87%AAfacebook-research%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC%E7%9A%84%E6%9C%80%E6%96%B0%E9%80%B2%E5%B1%95%EF%BC%9Afocal-loss-dense-object-detection-2/)  
 [如何评价kaiming的Focal Loss for Dense Object Detection？](https://www.zhihu.com/question/63581984)  
 
 ## SfMLearner  
 [完全無監督從影片中學習自身姿態與場景結構的關聯 UNSUPERVISED LEARNING OF DEPTH AND EGO-MOTION FROM VIDEO](https://data-sci.info/2017/08/02/%E5%AE%8C%E5%85%A8%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%BE%9E%E5%BD%B1%E7%89%87%E4%B8%AD%E5%AD%B8%E7%BF%92%E8%87%AA%E8%BA%AB%E5%A7%BF%E6%85%8B%E8%88%87%E5%A0%B4%E6%99%AF%E7%B5%90%E6%A7%8B%E7%9A%84%E9%97%9C/)  
-[SfMLearner:Github](https://github.com/tinghuiz/SfMLearner)  
+[SfMLearner: Github](https://github.com/tinghuiz/SfMLearner)  
 [Unsupervised Learning of Depth and Ego-Motion from Video](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)  
 []()  
 
@@ -58,14 +58,14 @@
 [CVPR2017 有什么值得关注的亮点?](https://www.zhihu.com/question/57523080)  
 [CVPR2017 Main Conference](http://cvpr2017.thecvf.com/program/main_conference)  
 [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)  
-[YOLO9000:Github](https://github.com/philipperemy/yolo-9000)  
+[YOLO9000: Github](https://github.com/philipperemy/yolo-9000)  
 
 
 ## ReadList  
 [三维形状数据的深度特征表示](https://mp.weixin.qq.com/s/g9ANliOMLJalJtpt4YCZVw)  
 [三维形状数据的深度特征表示](https://zhuanlan.zhihu.com/p/26806047)  
 [饮水思源--浅析深度学习框架设计中的关键技术](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650327133&idx=1&sn=eafea46fc7a7e898beaf2a73bb0d74b4)  
-[标记软件:Annotating Object Instances with a Polygon-RNN](https://zhuanlan.zhihu.com/p/27805822)  
+[标记软件: Annotating Object Instances with a Polygon-RNN](https://zhuanlan.zhihu.com/p/27805822)  
 [Annotating Object Instances with a Polygon-RNN](https://arxiv.org/pdf/1704.05548.pdf)  
 []()  
 
@@ -79,7 +79,6 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 ## 環境構築  
 [Deeplearning Chainer のインストール(CPU only, Ubuntu)](http://dronevisionml.blogspot.jp/2016/03/deeplearning-chainer-cpu-only-ubuntu.html)  
 [Rasberry Pi 2 にUbuntu 14.04をインストールする(From Windows 10)](http://dronevisionml.blogspot.jp/search/label/Raspberry%20Pi)  
-
 
 
 ## 強化学習
@@ -121,12 +120,12 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 
 
 ## From Zhihu    
-[CS231n课程笔记翻译：卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)    
+[CS231n课程笔记翻译： 卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)    
 [智能单元-聚焦通用人工智能](https://zhuanlan.zhihu.com/intelligentunit)     
 [DQN实战篇1 从零开始安装Ubuntu, Cuda, Cudnn, Tensorflow, OpenAI Gym](https://zhuanlan.zhihu.com/p/21434933?refer=intelligentunit)    
 [DQN 从入门到放弃1 DQN与增强学习](https://zhuanlan.zhihu.com/p/21262246?refer=intelligentunit)    
 [150行代码实现DQN算法玩CartPole](https://zhuanlan.zhihu.com/p/21477488?refer=intelligentunit)    
-[CS 294：深度增强学习，2017年春季学期](https://zhuanlan.zhihu.com/p/24721292?refer=intelligentunit)    
+[CS 294： 深度增强学习，2017年春季学期](https://zhuanlan.zhihu.com/p/24721292?refer=intelligentunit)    
 [关于图像语义分割的总结和感悟](https://zhuanlan.zhihu.com/p/22308032?refer=intelligentunit)    
 []()  
 
@@ -141,16 +140,16 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 [09 & 10.MNISTを使った文字認識(09_train.py, 10_test.py)](http://qiita.com/hf149/private/e32e0ad78e92b9c64daf)  
 [11. Recurrent Neural Networkによる電力予測 (13_RNN.py)](http://qiita.com/hf149/private/2348af7fd561feb27b9b)  
 
-[Scikit learnより グリッドサーチによるパラメータ最適化](http://qiita.com/SE96UoC5AfUt7uY/items/c81f7cea72a44a7bfd3a)  
-[Scikit learn 識別器のいろいろ](http://qiita.com/SE96UoC5AfUt7uY/items/3ca101f1cb5dee310c06)  
-[scikit learnより 交差検定で学習モデルの精度を評価](http://qiita.com/SE96UoC5AfUt7uY/items/d4b796f7658b7e5be3b6)  
-[scikit-learnでグリッドサーチ結果をもとに交差検定(クロスバリデーション)させてみた](http://qiita.com/hikobotch/items/493ae5c889a7c98cda11)  
-[Scikit-learnでハイパーパラメータのグリッドサーチ](http://qiita.com/sotetsuk/items/16ffd76978085bfd7628)  
-[SCIKIT-LEARNで最適なパラメータを決めるためにGRID SEARCHを使う](http://blog.tatsushim.com/?p=63)  
+[Scikit-learn より グリッドサーチによるパラメータ最適化](http://qiita.com/SE96UoC5AfUt7uY/items/c81f7cea72a44a7bfd3a)  
+[Scikit-learn 識別器のいろいろ](http://qiita.com/SE96UoC5AfUt7uY/items/3ca101f1cb5dee310c06)  
+[Scikit-learn より 交差検定で学習モデルの精度を評価](http://qiita.com/SE96UoC5AfUt7uY/items/d4b796f7658b7e5be3b6)  
+[Scikit-learn でグリッドサーチ結果をもとに交差検定(クロスバリデーション)させてみた](http://qiita.com/hikobotch/items/493ae5c889a7c98cda11)  
+[Scikit-learn でハイパーパラメータのグリッドサーチ](http://qiita.com/sotetsuk/items/16ffd76978085bfd7628)  
+[Scikit-learn で最適なパラメータを決めるためにGRID SEARCHを使う](http://blog.tatsushim.com/?p=63)  
 [Grid Search: パラメータチューニング](http://qh73xebitbucketorg.readthedocs.io/ja/latest/1.Programmings/python/LIB/scikit-learn/girdSearch/)  
-[scikit-learnでsvm 基本的な使い方](http://may46onez.hatenablog.com/entry/2016/02/19/152532)  
-[scikit-learn: パラメータの調整](http://cheminformist.itmol.com/TEST/wp-content/uploads/2015/05/CV_Grid.html)  
-[scikit-learn:SVM(RBFカーネル)のハイパーパラメータを変えると何が起こるの?](http://qiita.com/sz_dr/items/f3d6630137b184156a67)  
+[Scikit-learn でsvm 基本的な使い方](http://may46onez.hatenablog.com/entry/2016/02/19/152532)  
+[Scikit-learn パラメータの調整](http://cheminformist.itmol.com/TEST/wp-content/uploads/2015/05/CV_Grid.html)  
+[Scikit-learn SVM(RBFカーネル)のハイパーパラメータを変えると何が起こるの?](http://qiita.com/sz_dr/items/f3d6630137b184156a67)  
 []()  
 []()  
 []()  
