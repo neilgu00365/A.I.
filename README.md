@@ -55,10 +55,10 @@
 []()  
 
 ## CVPR2017  
-[CVPR 2017 有什么值得关注的亮点?](https://www.zhihu.com/question/57523080)  
+[CVPR2017 有什么值得关注的亮点?](https://www.zhihu.com/question/57523080)  
 [CVPR2017 Main Conference](http://cvpr2017.thecvf.com/program/main_conference)  
 [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)  
-[yolo-9000:Github](https://github.com/philipperemy/yolo-9000)  
+[YOLO9000:Github](https://github.com/philipperemy/yolo-9000)  
 
 
 ## ReadList  
