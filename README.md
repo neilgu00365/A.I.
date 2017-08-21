@@ -24,14 +24,13 @@
 [[2006] Real-time Pedestrian Detection Using LIDAR and Convolutional Neural Networks.](http://ieeexplore.ieee.org/abstract/document/1689630/)    
 
 
-### Ready to Read  
+# Ready to Read  
 
 ## DeepLearning + PointCloudProcessing  
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)  
 [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/pdf/1706.02413.pdf)  
 [PointNet: Poster](http://forum.stanford.edu/events/posterslides/PointNetDeepLearningonPointSetsfor3DClassificationandSegmentation.pdf)  
 [PointNet:GIthub](https://github.com/charlesq34/pointnet)  
-
 
 [#在3D POINT CLOUD DATA上有效地使用深度學習取特徵](https://data-sci.info/2017/06/25/%E5%9C%A83d-point-cloud-data%E4%B8%8A%E6%9C%89%E6%95%88%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%8F%96%E7%89%B9%E5%BE%B5-pointnet-deep-learning-point-sets-3d-classific/)  
 [PointNet:Github](https://github.com/charlesq34/pointnet)  
@@ -45,24 +44,24 @@
 []()  
 
 
-# Focal Loss For Dense Object Detection  
+## Focal Loss For Dense Object Detection  
 [來自FACEBOOK RESEARCH物體偵測的最新進展：FOCAL LOSS FOR DENSE OBJECT DETECTION](https://data-sci.info/2017/08/10/%E4%BE%86%E8%87%AAfacebook-research%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC%E7%9A%84%E6%9C%80%E6%96%B0%E9%80%B2%E5%B1%95%EF%BC%9Afocal-loss-dense-object-detection-2/)  
 [如何评价kaiming的Focal Loss for Dense Object Detection？](https://www.zhihu.com/question/63581984)  
 
-# SfMLearner  
+## SfMLearner  
 [完全無監督從影片中學習自身姿態與場景結構的關聯 UNSUPERVISED LEARNING OF DEPTH AND EGO-MOTION FROM VIDEO](https://data-sci.info/2017/08/02/%E5%AE%8C%E5%85%A8%E7%84%A1%E7%9B%A3%E7%9D%A3%E5%BE%9E%E5%BD%B1%E7%89%87%E4%B8%AD%E5%AD%B8%E7%BF%92%E8%87%AA%E8%BA%AB%E5%A7%BF%E6%85%8B%E8%88%87%E5%A0%B4%E6%99%AF%E7%B5%90%E6%A7%8B%E7%9A%84%E9%97%9C/)  
 [SfMLearner:Github](https://github.com/tinghuiz/SfMLearner)  
 [Unsupervised Learning of Depth and Ego-Motion from Video](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)  
 []()  
 
-# CVPR2017  
+## CVPR2017  
 [CVPR 2017 有什么值得关注的亮点?](https://www.zhihu.com/question/57523080)  
 [CVPR2017 Main Conference](http://cvpr2017.thecvf.com/program/main_conference)  
 [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)  
 [yolo-9000:Github](https://github.com/philipperemy/yolo-9000)  
 
 
-# ReadList  
+## ReadList  
 [三维形状数据的深度特征表示](https://mp.weixin.qq.com/s/g9ANliOMLJalJtpt4YCZVw)  
 [三维形状数据的深度特征表示](https://zhuanlan.zhihu.com/p/26806047)  
 [饮水思源--浅析深度学习框架设计中的关键技术](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650327133&idx=1&sn=eafea46fc7a7e898beaf2a73bb0d74b4)  
@@ -74,7 +73,7 @@
 []()  
 []()  
 
-
+---
 OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 ## 環境構築  
@@ -89,8 +88,6 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 [Probabilistic Robotics.pdf](http://people.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)  
 [移動体センサから得られる幾何・画像データの時空間解析とその応用.phd_thesis](http://www.cvl.iis.u-tokyo.ac.jp/thesis/doctor/main_ono.pdf)  
 
---
-
 [DQNの生い立ち＋Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)  
 []()  
 
@@ -104,8 +101,6 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 [誤差逆伝播法のノート](http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)  
 [TensorflowとChainerのインストールの覚え書き](http://umejan.hatenablog.com/entry/2016/04/15/003729)  
 [Chainer+CUDA7.5インストール記念 学習速度比較](http://qiita.com/wakaba130/items/29ad1e72674d93fae3ba)  
-
-
 
 
 ## その他　　
