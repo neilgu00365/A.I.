@@ -23,7 +23,7 @@
 [[2009] Real-time road detection in 3d point clouds using four directions scan line gradient criterion.](http://velodynelidar.com/lidar/hdlpressroom/pdf/Articles/Real-time%20Road%20Detection%20in%203D%20Point%20Clouds%20using%20Four%20Directions%20Scan%20Line%20Gradient%20Criterion.pdf)    
 [[2006] Real-time Pedestrian Detection Using LIDAR and Convolutional Neural Networks.](http://ieeexplore.ieee.org/abstract/document/1689630/)    
 
-
+---
 # Ready to Read  
 
 ## DeepLearning + PointCloudProcessing  
