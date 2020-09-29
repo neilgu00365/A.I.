@@ -131,14 +131,6 @@ OLD↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓�
 
 
 ## 研修「Deep Learning」  
-[03.マハラノビス距離を用いたクラス識別(03_Mahalanobis.py)](http://qiita.com/hf149/private/1e513bc518dd7fc78210)  
-[04.k最近傍法による教師あり学習(04_kNN.py)](http://qiita.com/hf149/private/40459dd9728ebd04129b)  
-[05.線形SVMによる教師あり学習(05_SVM_linear.py)](http://qiita.com/hf149/private/c95e107e81669c3f3156#fnref1)  
-[06.非線形SVMによる教師あり学習(06_SVM_kernel.py)](http://qiita.com/hf149/private/30d3de5d882cbfd28537)  
-[07.AdaBoostによる教師あり学習(07_AdaBoost.py)](http://qiita.com/hf149/private/626643c87012e7b696ca)  
-[08.RandomForestによる教師あり学習(08_RandomForest.py)](http://qiita.com/hf149/private/837947183327a09e5e45)  
-[09 & 10.MNISTを使った文字認識(09_train.py, 10_test.py)](http://qiita.com/hf149/private/e32e0ad78e92b9c64daf)  
-[11. Recurrent Neural Networkによる電力予測 (13_RNN.py)](http://qiita.com/hf149/private/2348af7fd561feb27b9b)  
 
 [Scikit-learn より グリッドサーチによるパラメータ最適化](http://qiita.com/SE96UoC5AfUt7uY/items/c81f7cea72a44a7bfd3a)  
 [Scikit-learn 識別器のいろいろ](http://qiita.com/SE96UoC5AfUt7uY/items/3ca101f1cb5dee310c06)  
